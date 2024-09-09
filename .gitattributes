@@ -1,0 +1,2 @@
+*.allele filter=lfs diff=lfs merge=lfs -text
+*.acount filter=lfs diff=lfs merge=lfs -text
